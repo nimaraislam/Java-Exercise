@@ -14,7 +14,7 @@ public class övningLoop {
         if (count != 0) {
             System.out.println("Du är snabbare än de " + count + " tidigare världsrekordshållare!");
         } else {
-            System.out.println("Tyvärr!Du kunde inte slå något rekord");
+            System.out.println("Tyvärr!!!Du kunde inte slå något rekord");
         }
     }
 }
